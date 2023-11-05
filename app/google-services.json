@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969879554931",
+    "project_id": "shambafresh-34393",
+    "storage_bucket": "shambafresh-34393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969879554931:android:740b0c8b2918bfe6bf1306",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969879554931-0n3gnngna4vm5j5rm8ctei7ug1keies9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRU30ciJ3SgzNsUX4tPKyR6U6kC5p_go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969879554931-0n3gnngna4vm5j5rm8ctei7ug1keies9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
