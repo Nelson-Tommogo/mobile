@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sunlitBeige">#E5DDC6</color>
+    <color name="whisperingWheat">#E5DDC6</color>
+    <color name="mutedOlive">#E5DDC6</color>
+    <color name="dustyMauve">#E5DDC6</color>
+    <color name="platinumMist">#DDDDDD</color>
+    <color name="mistySilver">#DDDDDD</color>
+    <color name="midnightSlate">#DDDDDD</color>
+    <color name="lilacLustre">#DDDDDD</color>
+    <color name="rusticBlaze">#A44A0C</color>
+    <color name="copperEmber">#A44A0C</color>
+    <color name="midnightNavy">#A44A0C</color>
+    <color name="spicedMocha">#A44A0C</color>
 </resources>
